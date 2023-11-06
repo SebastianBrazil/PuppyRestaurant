@@ -8,3 +8,13 @@
     src: url(../assets/fonts/Montauk-Regular.otf);
 }
 
+body {
+    background-image: url(../assets/images/bgtexture.jpg);
+}
+
+.hyperLink {
+    text-decoration: none;
+    color: #5F002B;
+    font-size: 20px;
+    font-family: Fugaz;
+}
