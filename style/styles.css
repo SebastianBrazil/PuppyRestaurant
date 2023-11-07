@@ -19,6 +19,43 @@ body {
     font-family: Fugaz;
 }
 
+.homeHero {
+    background-image: url(../assets/images/homeHero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.whiteColor {
+    background-color: #FFFFFF;
+}
+
+.burgundyColor {
+    color: #5F002B;
+}
+
+.homeTitle {
+    font-size: 50px;
+    font-family: Fugaz;
+}
+
+.homeText {
+    font-size: 20px;
+    font-family: Montauk;
+    line-height: 22px;
+}
+
+.marginHomeTop {
+    margin-top: -20px;
+}
+
+
+
+
+
+
+
 .footerImg {
     height: 31.6px;
     width: 100px;
