@@ -69,10 +69,6 @@ body {
     margin-left: -50px;
 }
 
-
-
-
-
 .footerImg {
     height: 31.6px;
     width: 100px;
@@ -92,3 +88,36 @@ body {
     display: flex; justify-content: space-evenly;
 }
 
+.ourMenuFix {
+    text-align: center;
+    font-size: 50px;
+    font-family: Fugaz;
+}
+
+.sandwichesImage {
+    background-image: url(../assets/images/menubeef.jpg);
+    background-repeat: no-repeat;
+    height: 250px;
+    /* width: 790px; */
+}
+
+.seafoodImage {
+    background-image: url(../assets/images/menuseafood.jpg);
+    background-repeat: no-repeat;
+    /* width: 790px; */
+    height: 250px;
+}
+
+.grillImage {
+    background-image: url(../assets/images/menumeat.jpg);
+    /* width: 790px; */
+    height: 250px;
+}
+
+.dessertsImage {
+    background-image: url(../assets/images/menudesserts.jpg);
+    /* width: 790px; */
+    height: 250px;
+    display: flex;
+    justify-content: end;
+}
