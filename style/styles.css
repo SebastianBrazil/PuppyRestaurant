@@ -67,3 +67,7 @@ body {
     font-family: Montauk;
 }
 
+.aboutTxt {
+    display: flex; justify-content: space-evenly;
+}
+
