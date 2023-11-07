@@ -5,6 +5,27 @@
 
 @font-face {
     font-family: Montauk;
-    src: url(../assets/fonts/Montauk-Regular.otf);
+    src: url(../assets/fonts/Montauk-Light.otf);
 }
 
+body {
+    background-image: url(../assets/images/bgtexture.jpg);
+}
+
+.hyperLink {
+    text-decoration: none;
+    color: #5F002B;
+    font-size: 20px;
+    font-family: Fugaz;
+}
+
+.footerImg {
+    height: 31.6px;
+    width: 100px;
+}
+
+.footerText {
+    color: #5F002B;
+    font-size: 20px;
+    font-family: Montauk;
+}
