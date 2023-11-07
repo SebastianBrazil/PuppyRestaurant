@@ -71,3 +71,6 @@ body {
     display: flex; justify-content: space-evenly;
 }
 
+.aboutTeam {
+    text-align: center;
+}
