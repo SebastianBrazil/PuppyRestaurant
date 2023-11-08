@@ -88,6 +88,10 @@ body {
     display: flex; justify-content: space-evenly;
 }
 
+.aboutTeam {
+    text-align: center;
+}
+
 .ourMenuFix {
     text-align: center;
     font-size: 50px;
