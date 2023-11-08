@@ -69,10 +69,6 @@ body {
     margin-left: -50px;
 }
 
-
-
-
-
 .footerImg {
     height: 31.6px;
     width: 100px;
@@ -92,3 +88,81 @@ body {
     display: flex; justify-content: space-evenly;
 }
 
+.ourMenuFix {
+    text-align: center;
+    font-size: 50px;
+    font-family: Fugaz;
+}
+
+.sandwichesImage {
+    background-image: url(../assets/images/menubeef.jpg);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: auto;
+    margin-right: 0px;
+    background-position: center;
+}
+
+.seafoodImage {
+    background-image: url(../assets/images/menuseafood.jpg);
+    background-repeat: no-repeat;
+    width: auto;
+    height: 250px;
+    margin-left: 0px;
+    background-position: center;
+}
+
+.grillImage {
+    background-image: url(../assets/images/menumeat.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
+    margin-right: 0px;
+    height: 250px;
+}
+
+.dessertsImage {
+    background-image: url(../assets/images/menudesserts.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
+    height: 250px;
+    margin-left: 0px;
+}
+
+.marginLeftMenu {
+    margin-left: 12px;
+}
+
+.marginRightMenu {
+    margin-right: 12px;
+}
+
+.hrPixel {
+    border-width: 2px;
+}
+
+.menuTitle {
+    font-family: Fugaz;
+    font-size: 30px;
+}
+
+.menuMinorText {
+    font-family: Montauk;
+    font-size: 20px;
+}
+
+.menuText {
+    font-family: Montauk;
+    font-size: 30px;
+}
+
+.marginTextMenu {
+    margin-top: -25px;
+    margin-bottom: -25px;
+}
+
+.marginSideMenu {
+    padding-left: 30px;
+    padding-right: 30px;
+}
