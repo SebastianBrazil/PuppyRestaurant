@@ -170,3 +170,105 @@ body {
     padding-left: 30px;
     padding-right: 30px;
 }
+
+
+.whiteBorder {
+    border: white solid 5px;
+}
+
+.firstPhoto {
+    background-image: url(../assets/images/photo01.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: auto;
+    
+    background-position: center;
+}
+.secondPhoto {
+    background-image: url(../assets/images/photo02.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: auto;
+    
+    background-position: center;
+}
+.thirdPhoto {
+    background-image: url(../assets/images/photo03.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: auto;
+    
+    background-position: center;
+}
+.fourthPhoto {
+    background-image: url(../assets/images/photo04.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: auto;
+    
+    background-position: center;
+}
+.fifthPhoto {
+    background-image: url(../assets/images/photo05.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: auto;
+    
+    background-position: center;
+}
+.sixthPhoto {
+    background-image: url(../assets/images/photo06.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: auto;
+    
+    background-position: center;
+}
+.seventhPhoto {
+    background-image: url(../assets/images/photo07.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: auto;
+    
+    background-position: center;
+}
+.eighthPhoto {
+    background-image: url(../assets/images/photo08.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: auto;
+    
+    background-position: center;
+}
+.ninthPhoto {
+    background-image: url(../assets/images/photo09.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: auto;
+    
+    background-position: center;
+}
+.tenthPhoto {
+    background-image: url(../assets/images/photo10.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: auto;
+    
+    background-position: center;
+}
+.eleventhPhoto {
+    background-image: url(../assets/images/photo11.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: auto;
+    
+    background-position: center;
+}
+.twelthPhoto {
+    background-image: url(../assets/images/photo12.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: auto;
+    
+    background-position: center;
+}
