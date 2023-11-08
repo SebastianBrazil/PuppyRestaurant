@@ -42,6 +42,50 @@ body {
     height: 185px;
 }
 
+.cateringHero {
+    background-image: url(../assets/images/cateringHero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.cateringMaine {
+    background-image: url(../assets/images/cateringMaine.jpg);
+    background-repeat: no-repeat;
+    margin-right: 10px;
+    height: 365.5px;
+    background-position: center;
+    width: auto;
+}
+
+.catering1 {
+    background-image: url(../assets/images/catering1.jpg);
+    background-repeat: no-repeat;
+    margin-right: 5px;
+    height: 365.5px;
+    background-position: center;
+    width: auto;
+}
+
+.catering2 {
+    background-image: url(../assets/images/catering2.jpg);
+    background-repeat: no-repeat;
+    margin-right: 5px;
+    margin-left: 5px;
+    height: 365.5px;
+    background-position: center;
+    width: auto;
+}
+
+.catering3 {
+    background-image: url(../assets/images/catering3.jpg);
+    background-repeat: no-repeat;
+    height: 365.5px;
+    background-position: center;
+    width: auto;
+    margin-left: 5px;
+}
+
 .whiteColor {
     background-color: #FFFFFF;
 }
@@ -85,7 +129,8 @@ body {
 }
 
 .aboutTxt {
-    display: flex; justify-content: space-evenly;
+    display: flex; 
+    justify-content: space-evenly;
 }
 
 .aboutTeam {
@@ -170,3 +215,15 @@ body {
     padding-left: 30px;
     padding-right: 30px;
 }
+
+.cateringText{
+    font-family: Montauk;
+    font-size: 20px;
+    line-height: 22px;
+}
+
+.marginSideCatering {
+    padding-left: 40px;
+    padding-right: 50px;
+}
+
