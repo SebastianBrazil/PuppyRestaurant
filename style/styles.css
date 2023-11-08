@@ -98,26 +98,42 @@ body {
     background-image: url(../assets/images/menubeef.jpg);
     background-repeat: no-repeat;
     height: 250px;
-    /* width: 790px; */
+    width: auto;
+    margin-right: 0px;
+    background-position: center;
 }
 
 .seafoodImage {
     background-image: url(../assets/images/menuseafood.jpg);
     background-repeat: no-repeat;
-    /* width: 790px; */
+    width: auto;
     height: 250px;
+    margin-left: 0px;
+    background-position: center;
 }
 
 .grillImage {
     background-image: url(../assets/images/menumeat.jpg);
-    /* width: 790px; */
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
+    margin-right: 0px;
     height: 250px;
 }
 
 .dessertsImage {
     background-image: url(../assets/images/menudesserts.jpg);
-    /* width: 790px; */
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
     height: 250px;
-    display: flex;
-    justify-content: end;
+    margin-left: 0px;
+}
+
+.marginLeftMenu {
+    margin-left: 12px;
+}
+
+.marginRightMenu {
+    margin-right: 12px;
 }
