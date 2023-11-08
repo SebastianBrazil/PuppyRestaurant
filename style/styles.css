@@ -137,3 +137,32 @@ body {
 .marginRightMenu {
     margin-right: 12px;
 }
+
+.hrPixel {
+    border-width: 2px;
+}
+
+.menuTitle {
+    font-family: Fugaz;
+    font-size: 30px;
+}
+
+.menuMinorText {
+    font-family: Montauk;
+    font-size: 20px;
+}
+
+.menuText {
+    font-family: Montauk;
+    font-size: 30px;
+}
+
+.marginTextMenu {
+    margin-top: -25px;
+    margin-bottom: -25px;
+}
+
+.marginSideMenu {
+    padding-left: 30px;
+    padding-right: 30px;
+}
