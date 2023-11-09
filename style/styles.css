@@ -42,6 +42,50 @@ body {
     height: 185px;
 }
 
+.cateringHero {
+    background-image: url(../assets/images/cateringHero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.cateringMaine {
+    background-image: url(../assets/images/cateringMaine.jpg);
+    background-repeat: no-repeat;
+    margin-right: 10px;
+    height: 365.5px;
+    background-position: center;
+    width: auto;
+}
+
+.catering1 {
+    background-image: url(../assets/images/catering1.jpg);
+    background-repeat: no-repeat;
+    margin-right: 10px;
+    height: 365.5px;
+    background-position: center;
+    width: auto;
+}
+
+.catering2 {
+    background-image: url(../assets/images/catering2.jpg);
+    background-repeat: no-repeat;
+    margin-right: 5px;
+    margin-left: 5px;
+    height: 365.5px;
+    background-position: center;
+    width: auto;
+}
+
+.catering3 {
+    background-image: url(../assets/images/catering3.jpg);
+    background-repeat: no-repeat;
+    height: 365.5px;
+    background-position: center;
+    width: auto;
+    margin-left: 10px;
+}
+
 .whiteColor {
     background-color: #FFFFFF;
 }
@@ -84,18 +128,28 @@ body {
     font-family: Montauk;
 }
 
-.aboutTxt {
-    display: flex; justify-content: space-evenly;
-}
-
-.aboutTeam {
-    text-align: center;
-}
-
-.ourMenuFix {
-    text-align: center;
+.aboutFix {
     font-size: 50px;
     font-family: Fugaz;
+    padding-left: 20px;
+}
+
+.aboutText {
+    font-family: Montauk;
+    font-size: 20.5px;
+    line-height: 22px;
+    padding-left: 20px;
+    padding-right: 50px;
+    margin-bottom: -10px;
+}
+
+.aboutMain {
+    background-image: url(../assets/images/AboutMain.jpg);
+    background-repeat: no-repeat;
+    height: 674.5px;
+    background-size: cover;
+    margin-right: 10px;
+    background-position: center;
 }
 
 .sandwichesImage {
@@ -151,6 +205,14 @@ body {
     font-size: 30px;
 }
 
+.titleSpace {
+    padding-top: 15px;
+}
+
+.caterSpace {
+    margin-bottom: -0px;
+}
+
 .menuMinorText {
     font-family: Montauk;
     font-size: 20px;
@@ -170,7 +232,6 @@ body {
     padding-left: 30px;
     padding-right: 30px;
 }
-
 
 .whiteBorder {
     border: white solid 10px;
@@ -271,4 +332,87 @@ body {
     width: 300px;
     
     background-position: center;
+}
+
+.cateringText{
+    font-family: Montauk;
+    font-size: 20px;
+    line-height: 22px;
+}
+
+.marginSideCatering {
+    padding-left: 40px;
+    padding-right: 50px;
+}
+
+.aboutMarginLeft {
+    margin-left: 10px;
+}
+
+.aboutMarginCenter {
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+.aboutMarginRight {
+    margin-right: 10px;
+}
+
+.george {
+    background-image: url(../assets/images/doxie3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
+    height: 536px;
+    margin-right: 10px;
+}
+
+.butterscotch {
+    background-image: url(../assets/images/jackrussel.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
+    height: 536px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.louie {
+    background-image: url(../assets/images/doxie1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
+    height: 536px;
+    margin-left: 10px;
+}
+
+.willow {
+    background-image: url(../assets/images/novascotia.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
+    height: 536px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.skittles {
+    background-image: url(../assets/images/doxie2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
+    height: 536px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 20px;
+}
+.mario {
+    background-image: url(../assets/images/staffie.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
+    height: 536px;
+    margin-left: 10px;
+    margin-top: 20px;
 }
