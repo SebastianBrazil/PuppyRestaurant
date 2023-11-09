@@ -612,3 +612,189 @@ body {
         margin-left: 0px;
     }
 }
+
+
+
+@media (min-width: 768px) and (max-width: 1199px) {
+    .positionNav {
+        display: flex;
+        justify-content: center;
+    }
+
+.col {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+    .george {
+       margin-right: 0px;
+    }
+
+    .butterscotch {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+    .louie {
+        margin-left: 0px;
+    }
+
+    .willow {
+        margin-right: 0px;
+        margin-top: 0px;
+    }
+
+    .skittles {
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .mario {
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .aboutMarginLeft {
+        margin-left: 0px;
+    }
+
+    .aboutMarginRight {
+        margin-right: 0px;
+    }
+
+    .aboutMarginCenter {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .homeHero {
+        height: 200px;
+    }
+
+    .homeImage {
+        height: 100px;
+    }
+
+    .marginHomeLeft {
+        margin-left: 0px;
+    }
+
+    .marginSideMenu {
+        height: auto;
+    }
+
+    .marginRightMenu {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+    .marginLeftMenu {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .sandwichesImage {
+        margin-right: -12px;
+    }
+
+    .seafoodImage {
+        margin-left: -12px;
+    }
+
+    .grillImage {
+        margin-right: -12px;
+    }
+
+    .dessertsImage {
+        margin-left: -12px;
+    }
+
+    .cateringHero {
+        height: 200px;
+    }
+
+    .catering1 {
+        width: 576px;
+        margin-right: 0px;
+    }
+
+    .catering2 {
+        width: 576px;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+    .catering3 {
+        width: 576px;
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+    .firstPhoto {
+        width: 576px;
+        margin-right: -12px;
+    }
+    
+    .secondPhoto {
+        width: 576px;
+        margin-right: -6px;
+        margin-left: 0px;
+    }
+    
+    .thirdPhoto {
+        width: 576px;
+        margin-right: -6px;
+        margin-left: 0px;
+    }
+    
+    .fourthPhoto {
+        width: 576px;
+        margin-left: 0px;
+    }
+    
+    .fifthPhoto {
+        width: 576px;
+        margin-right: -12px;
+    }
+    
+    .sixthPhoto {
+        width: 576px;
+        margin-right: -6px;
+        margin-left: 0px;
+    }
+    
+    .seventhPhoto {
+        width: 576px;
+        margin-right: -6px;
+        margin-left: 0px;
+    }
+    
+    .eighthPhoto {
+        width: 576px;
+        margin-left: 0px;
+    }
+    
+    .ninthPhoto {
+        width: 576px;
+        margin-right: -12px;
+    }
+    
+    .tenthPhoto {
+        width: 576px;
+        margin-right: -6px;
+        margin-left: 0px;
+    }
+    
+    .eleventhPhoto {
+        width: 576px;
+        margin-right: -6px;
+        margin-left: 0px;
+    }
+    
+    .twelthPhoto {
+        width: 576px;
+        margin-left: 0px;
+    }
+}
