@@ -240,101 +240,118 @@ body {
 .firstPhoto {
     background-image: url(../assets/images/photo01.jpg);
     background-repeat: no-repeat;
-    height: auto;
-    width: 290px;
-    
+    height: 378px;
+    width: auto;
     background-position: center;
+    margin-right: 10px;
 }
+
 .secondPhoto {
     background-image: url(../assets/images/photo02.jpg);
     background-repeat: no-repeat;
-    height: auto;
-    width: 290px;
-    
+    height: 378px;
+    width: auto;
     background-position: center;
+    margin-right: 5px;
+    margin-left: 5px;
 }
+
 .thirdPhoto {
     background-image: url(../assets/images/photo03.jpg);
     background-repeat: no-repeat;
-    height: auto;
-    width: 290px;
-    
+    height: 378px;
+    width: auto;
     background-position: center;
+    margin-right: 5px;
+    margin-left: 5px;
 }
+
 .fourthPhoto {
     background-image: url(../assets/images/photo04.jpg);
     background-repeat: no-repeat;
-    height: auto;
-    width: 290px;
-    
+    height: 378px;
+    width: auto;
     background-position: center;
+    margin-left: 10px;
 }
+
 .fifthPhoto {
     background-image: url(../assets/images/photo05.jpg);
     background-repeat: no-repeat;
-    height: auto;
-    width: 300px;
-    
+    height: 378px;
+    width: auto;
     background-position: center;
+    margin-right: 10px;
 }
+
 .sixthPhoto {
     background-image: url(../assets/images/photo06.jpg);
     background-repeat: no-repeat;
-    height: auto;
-    width: 300px;
-    
+    height: 378px;
+    width: auto;
     background-position: center;
+    margin-right: 5px;
+    margin-left: 5px;
 }
+
 .seventhPhoto {
     background-image: url(../assets/images/photo07.jpg);
     background-repeat: no-repeat;
-    height: auto;
-    width: 300px;
-    
+    height: 378px;
+    width: auto;
     background-position: center;
+    margin-right: 5px;
+    margin-left: 5px;
 }
+
 .eighthPhoto {
     background-image: url(../assets/images/photo08.jpg);
     background-repeat: no-repeat;
-    height: auto;
-    width: 300px;
-    
+    height: 378px;
+    width: auto;
     background-position: center;
+    margin-left: 10px;
 }
+
 .ninthPhoto {
     background-image: url(../assets/images/photo09.jpg);
     background-repeat: no-repeat;
-    height: auto;
-    width: 300px;
-    
+    height: 378px;
+    width: auto;
     background-position: center;
+    margin-right: 10px;
 }
+
 .tenthPhoto {
     background-image: url(../assets/images/photo10.jpg);
     background-repeat: no-repeat;
-    height: auto;
-    width: 300px;
-    
+    height: 378px;
+    width: auto;
     background-position: center;
+    margin-right: 5px;
+    margin-left: 5px;
 }
+
 .eleventhPhoto {
     background-image: url(../assets/images/photo11.jpg);
     background-repeat: no-repeat;
-    height: auto;
-    width: 300px;
-    
+    height: 378px;
+    width: auto;
     background-position: center;
+    margin-right: 5px;
+    margin-left: 5px;
 }
+
 .twelthPhoto {
     background-image: url(../assets/images/photo12.jpg);
     background-repeat: no-repeat;
-    height: auto;
-    width: 300px;
-    
+    height: 378px;
+    width: auto;
     background-position: center;
+    margin-left: 10px;
 }
 
-.cateringText{
+.cateringText {
     font-family: Montauk;
     font-size: 20px;
     line-height: 22px;
@@ -407,6 +424,7 @@ body {
     margin-right: 5px;
     margin-top: 20px;
 }
+
 .mario {
     background-image: url(../assets/images/staffie.jpg);
     background-repeat: no-repeat;
