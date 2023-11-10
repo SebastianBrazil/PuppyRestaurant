@@ -550,84 +550,77 @@ body {
         width: 576px;
         margin-right: -12px;
     }
-    
+
     .secondPhoto {
         width: 576px;
         margin-right: -6px;
         margin-left: 0px;
     }
-    
+
     .thirdPhoto {
         width: 576px;
         margin-right: -6px;
         margin-left: 0px;
     }
-    
+
     .fourthPhoto {
         width: 576px;
         margin-left: 0px;
     }
-    
+
     .fifthPhoto {
         width: 576px;
         margin-right: -12px;
     }
-    
+
     .sixthPhoto {
         width: 576px;
         margin-right: -6px;
         margin-left: 0px;
     }
-    
+
     .seventhPhoto {
         width: 576px;
         margin-right: -6px;
         margin-left: 0px;
     }
-    
+
     .eighthPhoto {
         width: 576px;
         margin-left: 0px;
     }
-    
+
     .ninthPhoto {
         width: 576px;
         margin-right: -12px;
     }
-    
+
     .tenthPhoto {
         width: 576px;
         margin-right: -6px;
         margin-left: 0px;
     }
-    
+
     .eleventhPhoto {
         width: 576px;
         margin-right: -6px;
         margin-left: 0px;
     }
-    
+
     .twelthPhoto {
         width: 576px;
         margin-left: 0px;
     }
 }
 
-
-
-@media (min-width: 768px) and (max-width: 1199px) {
+@media screen and (min-width: 577px) and (max-width: 1200px) {
     .positionNav {
         display: flex;
         justify-content: center;
     }
 
-.col {
-    display: flex;
-    flex-wrap: wrap;
-}
-
     .george {
-       margin-right: 0px;
+        margin-right: 0px;
     }
 
     .butterscotch {
@@ -676,6 +669,10 @@ body {
         height: 100px;
     }
 
+    .aboutMain {
+        background-size: cover;
+    }
+
     .marginHomeLeft {
         margin-left: 0px;
     }
@@ -715,92 +712,110 @@ body {
     }
 
     .catering1 {
-        width: 576px;
+        width: 100%;
         margin-right: 0px;
     }
 
     .catering2 {
-        width: 576px;
+        width: 100%;
         margin-right: 0px;
         margin-left: 0px;
         margin-top: 10px;
     }
 
     .catering3 {
-        width: 576px;
+        width: 100%;
         margin-left: 0px;
         margin-top: 10px;
     }
 
     .firstPhoto {
-        width: 576px;
+        width: 1200px;
+        height: 600px;
+        background-size: cover;
         margin-right: -12px;
     }
-    
-    .secondPhoto {
-        width: 576px;
-        margin-right: -6px;
-        margin-left: 0px;
-    }
-    
-    .thirdPhoto {
-        width: 576px;
-        margin-right: -6px;
-        margin-left: 0px;
-    }
-    
-    .fourthPhoto {
-        width: 576px;
-        margin-left: 0px;
-    }
-    
-    .fifthPhoto {
-        width: 576px;
-        margin-right: -12px;
-    }
-    
-    .sixthPhoto {
-        width: 576px;
-        margin-right: -6px;
-        margin-left: 0px;
-    }
-    
-    .seventhPhoto {
-        width: 576px;
-        margin-right: -6px;
-        margin-left: 0px;
-    }
-    
-    .eighthPhoto {
-        width: 576px;
-        margin-left: 0px;
-    }
-    
-    .ninthPhoto {
-        width: 576px;
-        margin-right: -12px;
-    }
-    
-    .tenthPhoto {
-        width: 576px;
-        margin-right: -6px;
-        margin-left: 0px;
-    }
-    
-    .eleventhPhoto {
-        width: 576px;
-        margin-right: -6px;
-        margin-left: 0px;
-    }
-    
-    .twelthPhoto {
-        width: 576px;
-        margin-left: 0px;
-    }
-}
 
-@media (max-width: 768px){
-.tabletImg {
-    min-width: 300px;
-}
+    .secondPhoto {
+        width: 1200px;
+        height: 600px;
+        background-size: cover;
+        margin-right: -6px;
+        margin-left: 0px;
+    }
+
+    .thirdPhoto {
+        width: 1200px;
+        height: 600px;
+        background-size: cover;
+        margin-right: -6px;
+        margin-left: 0px;
+    }
+
+    .fourthPhoto {
+        width: 1200px;
+        height: 600px;
+        background-size: cover;
+        margin-left: 0px;
+    }
+
+    .fifthPhoto {
+        width: 1200px;
+        height: 600px;
+        background-size: cover;
+        margin-right: -12px;
+    }
+
+    .sixthPhoto {
+        width: 1200px;
+        height: 600px;
+        background-size: cover;
+        margin-right: -6px;
+        margin-left: 0px;
+    }
+
+    .seventhPhoto {
+        width: 1200px;
+        height: 600px;
+        background-size: cover;
+        margin-right: -6px;
+        margin-left: 0px;
+    }
+
+    .eighthPhoto {
+        width: 1200px;
+        height: 600px;
+        background-size: cover;
+        margin-left: 0px;
+    }
+
+    .ninthPhoto {
+        width: 1200px;
+        height: 600px;
+        background-size: cover;
+        margin-right: -12px;
+    }
+
+    .tenthPhoto {
+        width: 1200px;
+        height: 600px;
+        background-size: cover;
+        margin-right: -6px;
+        margin-left: 0px;
+    }
+
+    .eleventhPhoto {
+        width: 1200px;
+        height: 600px;
+        background-size: cover;
+        margin-right: -6px;
+        margin-left: 0px;
+    }
+
+    .twelthPhoto {
+        width: 1200px;
+        height: 600px;
+        background-size: cover;
+        margin-left: 0px;
+    }
 }
